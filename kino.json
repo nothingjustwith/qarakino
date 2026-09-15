@@ -1,3 +1,14 @@
-[{"list_kino": 1,"name_kino": "Мен аңыз","janre": "Боевик, Хоррор","discraption": "«Мен аңыз» фильмі не туралы: Ғалымдар қатерлі ісікке қарсы көптен күткен емді таба алғанына бүкіл әлем қуануда. Бірақ көп ұзамай қуаныш үрейге айналады, өйткені дәрі-дәрмек жойылған қорқынышты вирус болып шығады.","button": true,"picture": "https://kazplay.kz/_next/image?url=%2Fmedia%2Fuploads%2Fpublic%2F678%2F69c%2F8b5%2F67869c8b565df501267072.jpg&w=1920&q=75","click": "https://www.youtube.com/watch?v=PxiIs28T9QY"},
-  {"list_kino": 2,"name_kino": "Интерстеллар","janre": "Фантастика, Драма","discraption": "Когда засуха и вымирание растений приводят человечество к продовольственному кризису, коллектив исследователей отправляется сквозь червоточину в поисках нового дома.","button": true,"picture": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format&fit=crop","click": "https://www.youtube.com/watch?v=zSWdZVtXT7E"},
-  {"list_kino": 3,"name_kino": "Матрица","janre": "Фантастика, Боевик","discraption": "Жизнь Томаса Андерсона разделена на две части: днем он обычный программист, а ночью — хакер Нео.","button": false,"picture": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&auto=format&fit=crop","click": "#"}]
+[{"list_kino": 1,
+  "name_kino": "Мен аңыз",
+  "janre": "Боевик, Хоррор",
+  "discraption": "«Мен аңыз» фильмі не туралы: Ғалымдар қатерлі ісікке қарсы көптен күткен емді таба алғанына бүкіл әлем қуануда. Бірақ көп ұзамай қуаныш үрейге айналады, өйткені дәрі-дәрмек жойылған қорқынышты вирус болып шығады.",
+  "button": true,
+  "picture": "https://kazplay.kz/_next/image?url=%2Fmedia%2Fuploads%2Fpublic%2F678%2F69c%2F8b5%2F67869c8b565df501267072.jpg&w=1920&q=75",
+  "click": "https://www.youtube.com/watch?v=PxiIs28T9QY"},
+  {"list_kino": 2,
+  "name_kino": "Мен аңыз",
+  "janre": "Боевик, Хоррор",
+  "discraption": "«Мен аңыз» фильмі не туралы: Ғалымдар қатерлі ісікке қарсы көптен күткен емді таба алғанына бүкіл әлем қуануда. Бірақ көп ұзамай қуаныш үрейге айналады, өйткені дәрі-дәрмек жойылған қорқынышты вирус болып шығады.",
+  "button": true,
+  "picture": "https://kazplay.kz/_next/image?url=%2Fmedia%2Fuploads%2Fpublic%2F678%2F69c%2F8b5%2F67869c8b565df501267072.jpg&w=1920&q=75",
+  "click": "https://www.youtube.com/watch?v=PxiIs28T9QY"}]
