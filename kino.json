@@ -79,5 +79,32 @@
     "button": true,
     "picture": "https://kazplay.kz/_next/image?url=%2Fmedia%2Fuploads%2Fpublic%2F678%2F69c%2F8b5%2F67869c8b565df501267072.jpg&w=1920&q=75",
     "click": "https://kazmovi.ru/kazplay/kino/6/Odisseya_720.mp4"
+  },
+  {
+    "list_kino": 10,
+    "name_kino": "Ит жұлдыздары",
+    "janre": "Мультфильм, Комедия, Семейный",
+    "discraption": "Дарынды әрі пысық иттердің басынан кешкен қызықты оқиғалары мен өнер жолындағы таңғажайып саяхаты.",
+    "button": true,
+    "picture": "https://kazplay.kz/_next/image?url=%2Fmedia%2Fuploads%2F2026%2F08%2F1785859872440-ff337d17c252cbb5.jpg&w=1920&q=75",
+    "click": "https://kazmovi.ru/kazplay/kino/6/it-zhuldyzdary_720.mp4"
+  },
+  {
+    "list_kino": 11,
+    "name_kino": "Оук стрит шетінде",
+    "janre": "Ужасы, Триллер, Драма",
+    "discraption": "Оук стрит көшесінің шетінде орын алатын жұмбақ әрі қорқынышты оқиғалар мен кейіпкерлердің аман қалу жолындағы күресі.",
+    "button": true,
+    "picture": "https://kazplay.kz/_next/image?url=%2Fmedia%2Fuploads%2Fpublic%2F678%2F69c%2F8b5%2F67869c8b565df501267072.jpg&w=1920&q=75",
+    "click": "https://kazmovi.ru/kazplay/kino/6/ouk-strit-shetinde_720.mp4"
+  },
+  {
+    "list_kino": 12,
+    "name_kino": "Хотя кинода 4",
+    "janre": "Комедия",
+    "discraption": "Сүйікті кейіпкерлердің қатысуымен өтетін күлкілі, қызықты әрі шытырман оқиғаларға толы отандық комедияның 4-бөлімі.",
+    "button": true,
+    "picture": "https://kazplay.kz/_next/image?url=%2Fmedia%2Fuploads%2F2026%2F08%2F1785859872440-ff337d17c252cbb5.jpg&w=1920&q=75",
+    "click": "https://kazmovi.ru/kazplay/qazaq/hotya_kinoda_4_1080.mp4"
   }
 ]
