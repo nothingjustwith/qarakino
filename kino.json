@@ -1,14 +1,47 @@
-[{"list_kino": 1,
-  "name_kino": "Мен аңыз",
-  "janre": "Боевик, Хоррор",
-  "discraption": "«Мен аңыз» фильмі не туралы: Ғалымдар қатерлі ісікке қарсы көптен күткен емді таба алғанына бүкіл әлем қуануда. Бірақ көп ұзамай қуаныш үрейге айналады, өйткені дәрі-дәрмек жойылған қорқынышты вирус болып шығады.",
-  "button": true,
-  "picture": "https://kazplay.kz/_next/image?url=%2Fmedia%2Fuploads%2Fpublic%2F678%2F69c%2F8b5%2F67869c8b565df501267072.jpg&w=1920&q=75",
-  "click": "https://kazmovi.ru/kazplay/kino/3/men_angiz_480.mp4"},
-  {"list_kino": 2,
-  "name_kino": "Мен аңыз",
-  "janre": "Боевик, Хоррор",
-  "discraption": "«Мен аңыз» фильмі не туралы: Ғалымдар қатерлі ісікке қарсы көптен күткен емді таба алғанына бүкіл әлем қуануда. Бірақ көп ұзамай қуаныш үрейге айналады, өйткені дәрі-дәрмек жойылған қорқынышты вирус болып шығады.",
-  "button": true,
-  "picture": "https://kazplay.kz/_next/image?url=%2Fmedia%2Fuploads%2F2026%2F08%2F1785859872440-ff337d17c252cbb5.jpg&w=1920&q=75",
-  "click": "https://kazmovi.ru/kazplay/kino/6/ormekshi-adamnyn-zhana-kuni_720.mp4"}]
+[
+{
+"list_kino": 1,
+"name_kino": "Миньондар мен монстрлар",
+"janre": "Мультфильм, Комедия",
+"discraption": "Миньондардың басынан кешкен қызықты әрі күлкілі оқиғалары мен құбыжықтармен кездесуі туралы қысқаша мультфильм.",
+"button": true,
+"picture": "[https://kazplay.kz/_next/image?url=%2Fmedia%2Fuploads%2Fpublic%2F678%2F69c%2F8b5%2F67869c8b565df501267072.jpg&w=1920&q=75](https://kazplay.kz/_next/image?url=%252Fmedia%252Fuploads%252Fpublic%252F678%252F69c%252F8b5%252F67869c8b565df501267072.jpg&w=1920&q=75&utm_source=gemini)",
+"click": "[https://kazmovi.ru/kazplay/multik/miniondar_men_monctrlar_720.mp4](https://kazmovi.ru/kazplay/multik/miniondar_men_monctrlar_720.mp4)"
+},
+{
+"list_kino": 2,
+"name_kino": "Моана",
+"janre": "Мультфильм, Фэнтези, Оқиғалы",
+"discraption": "Батыл қыз Моана өз халқын құтқару үшін мұхитқа саяхатқа шығып, жартылай құдай Мауимен бірге қауіпті кедергілерді жеңеді.",
+"button": true,
+"picture": "[https://kazplay.kz/_next/image?url=%2Fmedia%2Fuploads%2F2026%2F08%2F1785859872440-ff337d17c252cbb5.jpg&w=1920&q=75](https://kazplay.kz/_next/image?url=%252Fmedia%252Fuploads%252F2026%252F08%252F1785859872440-ff337d17c252cbb5.jpg&w=1920&q=75&utm_source=gemini)",
+"click": "[https://kazmovi.ru/kazplay/kino/6/moana_kino_720.mp4](https://kazmovi.ru/kazplay/kino/6/moana_kino_720.mp4)"
+},
+{
+"list_kino": 3,
+"name_kino": "Ойыншықтар хикаясы 5",
+"janre": "Мультфильм, Комедия, Оқиғалы",
+"discraption": "Сүйікті ойыншықтардың жаңа бастан кешкен қызықты саяхаттары мен достық туралы әсерлі оқиғасы.",
+"button": true,
+"picture": "[https://kazplay.kz/_next/image?url=%2Fmedia%2Fuploads%2Fpublic%2F678%2F69c%2F8b5%2F67869c8b565df501267072.jpg&w=1920&q=75](https://kazplay.kz/_next/image?url=%252Fmedia%252Fuploads%252Fpublic%252F678%252F69c%252F8b5%252F67869c8b565df501267072.jpg&w=1920&q=75&utm_source=gemini)",
+"click": "[https://kazmovi.ru/kazplay/multik/oyinshaqtar_5_1080.mp4](https://kazmovi.ru/kazplay/multik/oyinshaqtar_5_1080.mp4)"
+},
+{
+"list_kino": 4,
+"name_kino": "Өрмекші-адам 3",
+"janre": "Боевик, Фантастика, Оқиғалы",
+"discraption": "Питер Паркер жаңа қауіпті жаулармен шайқасып, өзінің ішкі күресі мен жауапкершілігін қатар алып жүруге мәжбүр болады.",
+"button": true,
+"picture": "[https://kazplay.kz/_next/image?url=%2Fmedia%2Fuploads%2F2026%2F08%2F1785859872440-ff337d17c252cbb5.jpg&w=1920&q=75](https://kazplay.kz/_next/image?url=%252Fmedia%252Fuploads%252F2026%252F08%252F1785859872440-ff337d17c252cbb5.jpg&w=1920&q=75&utm_source=gemini)",
+"click": "[https://kazmovi.ru/kazplay/kino/marvel/orimshi_adam_3_1080.mp4](https://kazmovi.ru/kazplay/kino/marvel/orimshi_adam_3_1080.mp4)"
+},
+{
+"list_kino": 5,
+"name_kino": "Аңдар шаһары 2",
+"janre": "Мультфильм, Детектив, Комедия",
+"discraption": "Джуди мен Ник заңды сақтау жолында жаңа күрделі істі зерттеп, Аңдар шаһарындағы кезекті шытырман оқиғаларға тап болады.",
+"button": true,
+"picture": "[https://kazplay.kz/_next/image?url=%2Fmedia%2Fuploads%2Fpublic%2F678%2F69c%2F8b5%2F67869c8b565df501267072.jpg&w=1920&q=75](https://kazplay.kz/_next/image?url=%252Fmedia%252Fuploads%252Fpublic%252F678%252F69c%252F8b5%252F67869c8b565df501267072.jpg&w=1920&q=75&utm_source=gemini)",
+"click": "[https://kazmovi.ru/kazplay/multik/Andar_shahar_2_1080.mp4](https://kazmovi.ru/kazplay/multik/Andar_shahar_2_1080.mp4)"
+}
+]
